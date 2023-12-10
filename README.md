@@ -1,0 +1,2 @@
+# sifreleme
+ algoritma odev
