@@ -1,2 +1,1 @@
-# sifreleme
- algoritma odev
+YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ ALGORİTMA VE PROGRAMLAMA DERSİ 1. KISA SINAV 2. BÖLÜM
