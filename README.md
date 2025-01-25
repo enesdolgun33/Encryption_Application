@@ -1,8 +1,7 @@
-YAZILIM MÜHENDİSLİĞİ BÖLÜMÜ ALGORİTMA VE PROGRAMLAMA DERSİ 1. KISA SINAV 2. BÖLÜM
-
+Encryption Application
 <ul>
-  <li>enes </li>
-  <li>enes dolgun</li>
+  <li>TR</li>
+  input 1.txt dosyasına yazdığımız kelimeyi şifreleyip sifrelenmis.txt dosyasına yazdırma
+  <li>EN<li>
+  Encrypt the word we wrote in ‘input1.txt’ file and print it to ‘sifrelenmis.txt’ file
 </ul>
-
-input 1.txt dosyasına yazdığımız kelimeyi şifreleyip sifrelenmis.txt dosyasına yazdırma
